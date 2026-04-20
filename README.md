@@ -4,7 +4,7 @@ Final-year Computer Science student at FAST-NUCES Karachi, specializing in AI-dr
 
 ### 🚀 What I'm working on:
 - **FYP:** Multi-Agent AI Website Builder (Automating UI/Backend generation)
-- **Experience:** Teaching Assistant for Calculus/Computing at FAST-NUCES
+- **Experience:** Teaching Assistant  at FAST-NUCES
 
 ### 🛠 Tech Stack:
 - **Languages:** JavaScript, Python, C++, SQL
