@@ -16,3 +16,11 @@ Final-year Computer Science student at FAST-NUCES Karachi, specializing in AI-dr
 - Participated in Coder Cup (Competitive Programming)
 
 📫 Reach me at: zainulabdeenabbasi2020@gmail.com
+
+# My Personal Portfolio
+This repository contains the source code for my personal portfolio website built with Tailwind CSS. 
+
+### Features:
+- Responsive Design
+- Project Showcases (e.g., Harmic, Hospital Management System)
+- Professional Skills Section (React.js, Node.js, C++)
